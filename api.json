@@ -1,22 +1,17 @@
 {
-    "people": [
-        {
-            "id": 1,
-            "name": "Alice Johnson",
-            "age": 28,
-            "city": "New York"
-        },
-        {
-            "id": 2,
-            "name": "Bob Smith",
-            "age": 35,
-            "city": "Los Angeles"
-        },
-        {
-            "id": 3,
-            "name": "Eva Brown",
-            "age": 22,
-            "city": "Chicago"
-        }
-    ]
+"status": "ok",
+"totalResults": 6610,
+-"articles": [
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "astjohn@insider.com (Alexa St. John)",
+"title": "It could take a decade for other automakers to catch Tesla — and none are 'leading contenders' just yet, experts say",
+"description": "Though it's early in the days of EV adoption, automakers other than Tesla don't seem like they'll be able to catch up to Elon Musk in short time.",
+"url": "https://www.businessinsider.com/tesla-no-competition-other-automakers-yet-report-says-2023-10",
+"urlToImage": "https://i.insider.com/63a21d3458babf00188d3253?width=1200&format=jpeg",
+"publishedAt": "2023-10-19T14:42:56Z",
+"content": "It's hard to gauge which automaker will be the runner up to Tesla in the coming years  and there might not be one at all.\r\nAll of the electric car makers hoping to catch up to Tesla have their work c… [+3386 chars]"
 }
