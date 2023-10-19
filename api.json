@@ -1,0 +1,22 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "age": 28,
+            "city": "New York"
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "age": 35,
+            "city": "Los Angeles"
+        },
+        {
+            "id": 3,
+            "name": "Eva Brown",
+            "age": 22,
+            "city": "Chicago"
+        }
+    ]
+}
